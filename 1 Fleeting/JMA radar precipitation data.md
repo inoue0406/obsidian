@@ -7,5 +7,5 @@ The methodology for generating these data is described in Nagata (2011). The acc
 Reference
 
 - Japan Meteorological Business Support Center (http://www. jmbsc.or.jp/jp/online/file/f-online30110.html, in Japanese)
-- 
-
+- Nagata, K., 2011: Quantitative precipitation estimation and quantitative precipitation forecasting by the Japan meteorological agency. Japan Meteorological Agency Tech. Rev. 13, RSMC Tokyo–Typhoon Center, 14 pp., [https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/techrev/text13-2.pdf](https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/techrev/text13-2.pdf)
+- Shakti, P. C., R. Misumi, T. Nakatani, K. Iwanami, M. Maki, T. Maesaka, and K. Hirano, 2016: Accuracy of quantitative precipitation estimation using operational weather radars: A case study of heavy rainfall on 9–10 September 2015 in the East Kanto region, Japan. __J. Disaster Res.__, **11**, 1003–1016, [https://doi.org/10.20965/jdr.2016.p1003](https://doi.org/10.20965/jdr.2016.p1003).
