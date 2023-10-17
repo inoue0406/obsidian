@@ -4,5 +4,5 @@ Nowcasting is a short-term weather forecast, generally for the next few hours. S
 Reference
 
 - Japan Meteorological Agency (2014). Precipitation analysis and prediction technology in the high-resolution precipitation nowcast (in japanese). Sokko-Jihou, 81:55–76.
-- 高解像度降水ナウキャスト
+- 気象庁, 高解像度降水ナウキャスト
 https://www.jma.go.jp/jma/kishou/know/kurashi/highres_nowcast.html
