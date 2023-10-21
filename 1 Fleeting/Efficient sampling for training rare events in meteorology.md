@@ -8,4 +8,7 @@ The procedure is also called importance sampling.
 
 --
 Reference:
+Peng et al., Trainable Undersampling for Class-Imbalance Learning, Proceedings AAAI, 2019
+https://ojs.aaai.org/index.php/AAAI/article/view/4396
+
 
