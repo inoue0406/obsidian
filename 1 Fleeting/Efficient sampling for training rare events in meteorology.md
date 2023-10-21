@@ -5,10 +5,12 @@ The occurrence of heavy precipitations that could lead to societal damage or dis
 We propose to utilize a deep learning-based “sampler”.
 
 The procedure is also called importance sampling.
+Peng et al. (2019) is similar approach.
+
 
 --
 Reference:
-Peng et al., Trainable Undersampling for Class-Imbalance Learning, Proceedings AAAI, 2019
+Peng et al., Trainable Undersampling for Class-Imbalance Learning, Proceedings AAAI, 2019.
 https://ojs.aaai.org/index.php/AAAI/article/view/4396
 
 
