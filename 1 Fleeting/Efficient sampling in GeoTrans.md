@@ -5,3 +5,4 @@ The occurrence of heavy precipitations that could lead to societal damage or dis
 
 We propose to utilize a deep learning-based “sampler”.
 
+The procedure is also called importance sam@ling.
