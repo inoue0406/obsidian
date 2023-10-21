@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1 Fleeting/Efficient sampling in GeoTrans.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1 Fleeting/Efficient sampling in GeoTrans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "1 Fleeting/Efficient sampling in GeoTrans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "1 Fleeting/Efficient sampling in GeoTrans.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f701509c4b12125",
+  "active": "c1b50f55b9f04713",
   "lastOpenFiles": [
     "1 Fleeting/GeoTrans による汎用性の獲得.md",
-    "Untitled.md",
+    "1 Fleeting/Efficient sampling in GeoTrans.md",
     "3 Permanent!/Deep learning and LSTM.md",
     "3 Permanent!/Characteristics of meteorologists.md",
     "3 Permanent!/Formalization of Transformer-based meteorological interpolator (GeoTrans).md",
