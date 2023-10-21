@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Permanent!/Deep learning and LSTM.md",
+                "file": "1 Fleeting/GeoTrans による汎用性の獲得.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f701509c4b12125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Permanent!/Deep learning and LSTM.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Permanent!/Deep learning and LSTM.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Permanent!/Deep learning and LSTM.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -168,14 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10f8cbced65fa348",
+  "active": "0f701509c4b12125",
   "lastOpenFiles": [
+    "1 Fleeting/GeoTrans による汎用性の獲得.md",
+    "Untitled.md",
+    "3 Permanent!/Deep learning and LSTM.md",
     "3 Permanent!/Characteristics of meteorologists.md",
     "3 Permanent!/Formalization of Transformer-based meteorological interpolator (GeoTrans).md",
     "3 Permanent!/Sample Permanent Note.md",
     "3 Permanent!/Why we use Transformer-based meteorological interpolator.md",
-    "3 Permanent!/Deep learning and LSTM.md",
-    "1 Fleeting/GeoTrans による汎用性の獲得.md",
     "1 Fleeting/気象学を理解するAIを作ることの意味.md",
     "1 Fleeting/物理法則と情報圧縮.md",
     "1 Fleeting/JEPA Architecture.md",
