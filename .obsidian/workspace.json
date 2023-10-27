@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Permanent!/Deep learning and LSTM.md",
+                "file": "1 Fleeting/GeoTrans による汎用性の獲得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Permanent!/Deep learning and LSTM.md",
+                "file": "1 Fleeting/GeoTrans による汎用性の獲得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Permanent!/Deep learning and LSTM.md"
+                "file": "1 Fleeting/GeoTrans による汎用性の獲得.md"
               }
             }
           },
@@ -181,11 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f701509c4b12125",
+  "active": "10f8cbced65fa348",
   "lastOpenFiles": [
+    "3 Permanent!/Deep learning and LSTM.md",
     "3 Permanent!/Formalization of Transformer-based meteorological interpolator (GeoTrans).md",
     "3 Permanent!/Sample Permanent Note.md",
-    "3 Permanent!/Deep learning and LSTM.md",
     "3 Permanent!/Characteristics of meteorologists.md",
     "1 Fleeting/物理法則と情報圧縮.md",
     "1 Fleeting/気象学を理解するAIを作ることの意味.md",
