@@ -11,7 +11,6 @@ On the contrary, samples of rarely occurring rainfall patterns, such as torrenti
 The procedure is also called importance sampling.
 Peng et al. (2019) is similar approach.
 
-
 --
 Reference:
 Peng et al., Trainable Undersampling for Class-Imbalance Learning, Proceedings AAAI, 2019.
