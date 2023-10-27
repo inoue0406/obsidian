@@ -3,7 +3,6 @@ One of the difficulties in predicting precipitation pattern using deep learning 
 The occurrence of heavy precipitations that could lead to societal damage or disruption is much more scarce.
 
 We propose to utilize a deep learning-based “sampler”.
-
 Given an input data sample, the sampler produces the probability of the data sample to be selected.
 The network structure of the sampler is a convolutional network typically used for image classification tasks.
 In the case of precipitation nowcasting, non-raining samples become worthless quickly after the initial period of training, since this type of data does not enhance understanding of the phenomena of interest.
