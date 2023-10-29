@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
+                "file": "Zettelkasten Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
+                "file": "Zettelkasten Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
+                "file": "Zettelkasten Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Fleeting/Efficient sampling for training rare events in meteorology.md"
+                "file": "Zettelkasten Rule.md"
               }
             }
           },
@@ -193,13 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2216fb20dd71b019",
+  "active": "c1b50f55b9f04713",
   "lastOpenFiles": [
+    "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
+    "Untitled",
     "3 Permanent!/Characteristics of meteorologists.md",
     "3 Permanent!/Deep learning and LSTM.md",
     "3 Permanent!/「研究のしやすさ」を高めることが重要.md",
     "3 Permanent!/Formalization of Transformer-based meteorological interpolator (GeoTrans).md",
-    "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
     "1 Fleeting/GeoTrans による汎用性の獲得.md",
     "Untitled 1.md",
     "Untitled.canvas",
