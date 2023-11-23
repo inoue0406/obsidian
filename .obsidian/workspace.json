@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Literature/JMA radar precipitation data.md",
+                "file": "2 Literature/Max Weber「職業としての政治」より、国家と暴力の関係.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Literature/JMA radar precipitation data.md",
+                "file": "2 Literature/Max Weber「職業としての政治」より、国家と暴力の関係.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Literature/JMA radar precipitation data.md",
+                "file": "2 Literature/Max Weber「職業としての政治」より、国家と暴力の関係.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Literature/JMA radar precipitation data.md"
+                "file": "2 Literature/Max Weber「職業としての政治」より、国家と暴力の関係.md"
               }
             }
           },
@@ -195,6 +195,9 @@
   },
   "active": "2216fb20dd71b019",
   "lastOpenFiles": [
+    "2 Literature/萩原朔太郎：詩の目的について.md",
+    "2 Literature/Max Weber「職業としての政治」より、国家と暴力の関係.md",
+    "2 Literature/JMA radar precipitation data.md",
     "2 Literature/JMA High-resolution Precipitation Nowcast.md",
     "2 Literature/Ashish_2017_Attention_is_all_you_need.md",
     "1 Fleeting/物理法則と情報圧縮.md",
@@ -202,7 +205,6 @@
     "1 Fleeting/JEPA Architecture.md",
     "1 Fleeting/GeoTrans による汎用性の獲得.md",
     "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
-    "2 Literature/萩原朔太郎：詩の目的について.md",
     "3 Permanent!/「研究のしやすさ」を高めることが重要.md",
     "3 Permanent!/アクティブな気象観測システムのデータモデル.md",
     "3 Permanent!/Why we use Transformer-based meteorological interpolator.md",
@@ -216,8 +218,6 @@
     "Untitled",
     "Untitled 1.md",
     "Untitled.canvas",
-    "2 Literature/JMA radar precipitation data.md",
-    "2 Literature/Max Weber「職業としての政治」より、国家と暴力の関係.md",
     "daily/2023-08-23.md",
     "images/Pasted image 20230827162428.png",
     "daily",
