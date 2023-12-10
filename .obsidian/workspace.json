@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Permanent!/「研究のしやすさ」を高めることが重要.md",
+                "file": "2 Literature/Ashish_2017_Attention_is_all_you_need.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Permanent!/「研究のしやすさ」を高めることが重要.md",
+                "file": "1 Fleeting/JEPA Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Permanent!/「研究のしやすさ」を高めることが重要.md",
+                "file": "1 Fleeting/JEPA Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Permanent!/「研究のしやすさ」を高めることが重要.md"
+                "file": "1 Fleeting/JEPA Architecture.md"
               }
             }
           },
@@ -193,14 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2216fb20dd71b019",
+  "active": "6614feb21a556f19",
   "lastOpenFiles": [
-    "3 Permanent!/Characteristics of meteorologists.md",
-    "2 Literature/萩原朔太郎：詩の目的について.md",
     "2 Literature/Ashish_2017_Attention_is_all_you_need.md",
     "2 Literature/JMA High-resolution Precipitation Nowcast.md",
-    "2 Literature/JMA radar precipitation data.md",
+    "3 Permanent!/Characteristics of meteorologists.md",
     "3 Permanent!/「研究のしやすさ」を高めることが重要.md",
+    "2 Literature/萩原朔太郎：詩の目的について.md",
+    "2 Literature/JMA radar precipitation data.md",
     "3 Permanent!/Deep learning and LSTM.md",
     "3 Permanent!/Formalization of Transformer-based meteorological interpolator (GeoTrans).md",
     "3 Permanent!/Sample Permanent Note.md",
