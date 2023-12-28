@@ -1,4 +1,5 @@
 
 SOAを取るべきかどうか考える。
 
-https://www.soa.org/mysoa/account/
+現状自分が取得できている資格は、以下のURL
+https://store.soa.org/My-Account/My-Transcripts
