@@ -10,4 +10,7 @@ https://store.soa.org/My-Account/My-Transcripts
 ・SOA P (2016/7)
 ・VEE (証券アナリスト＋CLEP)
 
-| | |
+
+
+| Exams| ASA Required | CERA Required | FSA Required | Already Passed|
+||||||
