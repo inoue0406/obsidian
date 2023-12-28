@@ -10,7 +10,8 @@ https://store.soa.org/My-Account/My-Transcripts
 ・SOA P (2016/7)
 ・VEE (証券アナリスト＋CLEP)
 
-FSA for 
+FSA for ERM
+Corporate Finance and ERM (CFE) Track
 
 
 | Exams| ASA Required | CERA Required | FSA Required | Already Passed|
