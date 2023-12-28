@@ -25,7 +25,7 @@ FSAはCorporate Finance and ERM (CFE) Track
 |Advanced Long-Term Actuarial Mathematics (ALTAM) Exam (年金) or Advanced Short-Term Actuarial Mathematics (ASTAM) Exam (生保)|o|-|-|-|455|
 |Statistics for Risk Modeling (SRM) Exam|o|o|-|-|325|
 |Predictive Analytics (PA) Exam|o|-|-|-|1125|
-|Enterprise Risk Management (ERM) Exam|-|o|o|-||
+|Enterprise Risk Management (ERM) Exam|-|o|o|-|925|
 |Foundations of Corporate Finance and ERM (CFEFD) Exam|-|-|o|-|
 |Strategic Decision Making (CFESDM) Exam|-|-|o|-|
 
@@ -35,7 +35,7 @@ FSAはCorporate Finance and ERM (CFE) Track
 |----|----|----|----|----|----|
 |Pre-Actuarial Foundations Module |o|o|-|-|200|
 |Actuarial Science Foundations Module|o|o|-|-|200|
-|Advanced Topics in Predictive Analytics (ATPA) Assessment |o|-|-|-||
+|Advanced Topics in Predictive Analytics (ATPA) Assessment |o|-|-|-|1125|
 |Fundamentals of Actuarial Practice (FAP) e-Learning Course|o|o|-|-|500+1200|
 |Associateship Professionalism Course (APC)|o|o|-|-|625/775|
 |Enterprise Risk Management Module|-|o|o|-|
