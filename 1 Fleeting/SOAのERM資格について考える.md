@@ -51,7 +51,7 @@ ASA Pathwayを見ると、
 
 さらにその次はACTUARIAL IIの2試験
 - LTAM　April 16-19, 2024　October 15-18, 2024
-- PA　
+- PA　April 16-19, 2024　October 15-18, 2024
 
 スケジュールは以下の通り
 https://www.soa.org/education/exam-req/exam-day-info/exam-schedules/
