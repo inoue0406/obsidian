@@ -53,7 +53,8 @@ ASA Pathwayを見ると、
 - FAM
 - SRM
 
---
+-----
+むしろCASを受けた方がよいのではないか？
 
 ![[Pasted image 20231228184821.png]]
 
