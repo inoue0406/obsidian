@@ -53,6 +53,9 @@ ASA Pathwayを見ると、
 - LTAM
 - PA
 
+スケジュールは以下の通り
+https://www.soa.org/education/exam-req/exam-day-info/exam-schedules/
+
 -----
 むしろCASを受けた方がよいのではないか？
 
