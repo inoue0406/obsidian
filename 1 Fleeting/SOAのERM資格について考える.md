@@ -45,7 +45,9 @@ FSAはCorporate Finance and ERM (CFE) Track
 |Fellowship Admissions Course (FAC)|-|-|o|-|
 
 
+ASA Pathwayを見ると、
 
+![[Pasted image 20231228184821.png]]
 
 
 
