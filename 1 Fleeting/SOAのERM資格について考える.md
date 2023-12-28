@@ -25,7 +25,7 @@ Corporate Finance and ERM (CFE) Track
 |Predictive Analytics (PA) Exam|o|-||-|
 |Enterprise Risk Management (ERM) Exam|-|o|o|-|
 |Foundations of Corporate Finance and ERM (CFEFD) Exam|-|-|o|-|
-|||||-|
+|Strategic Decision Making (CFESDM) Exam|-|-|o|-|
 
 
 
@@ -38,17 +38,14 @@ Corporate Finance and ERM (CFE) Track
 |Associateship Professionalism Course (APC)|o|o|-|-|
 |Enterprise Risk Management Module|-|o|o|-|
 |Introduction to CFE Module|-|-|o|-|
-|||||
-|||||
-|||||
+|Advanced Topics in CFE Module|-|-|o|-|
+|Decision Making and Communication (DMAC) Module|-|-|o|-|
+|Fellowship Admissions Course (FAC)||||-|
 
 
 
 
 
-Advanced Topics in CFE Module
-Decision Making and Communication (DMAC) Module
-Fellowship Admissions Course (FAC)
 
 
 
