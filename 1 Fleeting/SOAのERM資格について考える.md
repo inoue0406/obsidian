@@ -50,11 +50,12 @@ ASA Pathwayを見ると、
 - SRM
 
 さらにその次はACTUARIAL IIの2試験
-- LTAM
-- PA
+- LTAM　April 16-19, 2024　October 15-18, 2024
+- PA　
 
 スケジュールは以下の通り
 https://www.soa.org/education/exam-req/exam-day-info/exam-schedules/
+
 
 -----
 むしろCASを受けた方がよいのではないか？
