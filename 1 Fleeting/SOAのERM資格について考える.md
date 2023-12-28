@@ -13,7 +13,8 @@ https://store.soa.org/My-Account/My-Transcripts
 
 
 | Exams| ASA Required | CERA Required | FSA Required | Already Passed|
-|----|----|----|----|
+|----|----|----|----|----|
+|VEE|o|o|-|y|
 |||||
 |||||
 |||||
@@ -21,5 +22,6 @@ https://store.soa.org/My-Account/My-Transcripts
 |||||
 |||||
 |||||
-
+|||||
+|||||
 
