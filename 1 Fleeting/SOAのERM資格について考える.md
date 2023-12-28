@@ -45,9 +45,14 @@ FSAはCorporate Finance and ERM (CFE) Track
 |Fellowship Admissions Course (FAC)|-|-|o|-|
 
 ASA Pathwayを見ると、
-次はACTUARIAL re
+次はACTUARIAL Iの2試験
 - FAM
 - SRM
+
+さらにその次はACTUARIAL IIの2試験
+- FAM
+- SRM
+
 
 ![[Pasted image 20231228184821.png]]
 
