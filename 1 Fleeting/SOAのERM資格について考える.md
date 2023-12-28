@@ -16,8 +16,8 @@ https://www.soa.org/education/exam-req/edu-fsa-req/
 FSAはCorporate Finance and ERM (CFE) Track
 
 
-| Exams| ASA Required | CERA Required | FSA Required | Already Passed|
-|----|----|----|----|----|
+| Exams| ASA Required | CERA Required | FSA Required | Already Passed| Price USD |
+|----|----|----|----|----|----|
 |VEE|o|o|-|y|
 |Probability (P) Exam|o|o|-|y|
 |Financial Mathematics (FM) Exam|o|o|-|y|
