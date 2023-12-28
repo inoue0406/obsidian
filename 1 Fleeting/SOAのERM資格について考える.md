@@ -15,12 +15,12 @@ https://store.soa.org/My-Account/My-Transcripts
 | Exams| ASA Required | CERA Required | FSA Required | Already Passed|
 |----|----|----|----|----|
 |VEE|o|o|-|y|
-|Probability (P) Exam|o|||y|
-|Financial Mathematics (FM) Exam|o|||y|
-|Fundamentals of Actuarial Mathematics (FAM) Exam|o|||-|
-|Advanced Long-Term Actuarial Mathematics (ALTAM) Exam (年金) or Advanced Short-Term Actuarial Mathematics (ASTAM) Exam (生保)|o|||-|
-|Statistics for Risk Modeling (SRM) Exam|o|||-|
-|Predictive Analytics (PA) Exam|o|||-|
+|Probability (P) Exam|o|o||y|
+|Financial Mathematics (FM) Exam|o|o||y|
+|Fundamentals of Actuarial Mathematics (FAM) Exam|o|o||-|
+|Advanced Long-Term Actuarial Mathematics (ALTAM) Exam (年金) or Advanced Short-Term Actuarial Mathematics (ASTAM) Exam (生保)|o|-||-|
+|Statistics for Risk Modeling (SRM) Exam|o|o||-|
+|Predictive Analytics (PA) Exam|o|-||-|
 |||||-|
 |||||-|
 |||||-|
