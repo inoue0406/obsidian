@@ -27,7 +27,7 @@ https://store.soa.org/My-Account/My-Transcripts
 
 
 
-| Modules| ASA Required | CERA Required | FSA Required | Already Passed|
+| Modules/Seminars| ASA Required | CERA Required | FSA Required | Already Passed|
 |----|----|----|----|----|
 |Pre-Actuarial Foundations Module |o|-|-|-|
 |Actuarial Science Foundations Module|o|-|-|-|
