@@ -10,6 +10,7 @@ https://store.soa.org/My-Account/My-Transcripts
 ・SOA P (2016/7)
 ・VEE (証券アナリスト＋CLEP)
 
+FSA for 
 
 
 | Exams| ASA Required | CERA Required | FSA Required | Already Passed|
@@ -21,7 +22,7 @@ https://store.soa.org/My-Account/My-Transcripts
 |Advanced Long-Term Actuarial Mathematics (ALTAM) Exam (年金) or Advanced Short-Term Actuarial Mathematics (ASTAM) Exam (生保)|o|-||-|
 |Statistics for Risk Modeling (SRM) Exam|o|o||-|
 |Predictive Analytics (PA) Exam|o|-||-|
-|||||-|
+|Enterprise Risk Management (ERM) Exam|-|o|o|-|
 |||||-|
 |||||-|
 
@@ -34,11 +35,13 @@ https://store.soa.org/My-Account/My-Transcripts
 |Advanced Topics in Predictive Analytics (ATPA) Assessment |o|-|-|-|
 |Fundamentals of Actuarial Practice (FAP) e-Learning Course|o|o|-|-|
 |Associateship Professionalism Course (APC)|o|o|-|-|
+|Enterprise Risk Management Module|-|o|o|-|
 |||||
 |||||
 |||||
 |||||
-|||||
+
+
 
 
 
