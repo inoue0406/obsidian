@@ -10,8 +10,10 @@ https://store.soa.org/My-Account/My-Transcripts
 ・SOA P (2016/7)
 ・VEE (証券アナリスト＋CLEP)
 
-FSA for ERM
-Corporate Finance and ERM (CFE) Track
+今後パスする必要がある試験をリストアップした。
+https://www.soa.org/education/exam-req/edu-fsa-req/
+
+FSAはCorporate Finance and ERM (CFE) Track
 
 
 | Exams| ASA Required | CERA Required | FSA Required | Already Passed|
@@ -40,7 +42,7 @@ Corporate Finance and ERM (CFE) Track
 |Introduction to CFE Module|-|-|o|-|
 |Advanced Topics in CFE Module|-|-|o|-|
 |Decision Making and Communication (DMAC) Module|-|-|o|-|
-|Fellowship Admissions Course (FAC)||||-|
+|Fellowship Admissions Course (FAC)|-|-|o|-|
 
 
 
