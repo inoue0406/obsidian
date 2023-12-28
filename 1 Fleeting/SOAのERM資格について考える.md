@@ -50,8 +50,8 @@ ASA Pathwayを見ると、
 - SRM
 
 さらにその次はACTUARIAL IIの2試験
-- FAM
-- SRM
+- LTAM
+- PA
 
 -----
 むしろCASを受けた方がよいのではないか？
