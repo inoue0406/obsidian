@@ -24,7 +24,7 @@ Corporate Finance and ERM (CFE) Track
 |Statistics for Risk Modeling (SRM) Exam|o|o||-|
 |Predictive Analytics (PA) Exam|o|-||-|
 |Enterprise Risk Management (ERM) Exam|-|o|o|-|
-|||||-|
+|Foundations of Corporate Finance and ERM (CFEFD) Exam|-|-|o|-|
 |||||-|
 
 
@@ -37,13 +37,18 @@ Corporate Finance and ERM (CFE) Track
 |Fundamentals of Actuarial Practice (FAP) e-Learning Course|o|o|-|-|
 |Associateship Professionalism Course (APC)|o|o|-|-|
 |Enterprise Risk Management Module|-|o|o|-|
-|||||
+|Introduction to CFE Module|-|-|o|-|
 |||||
 |||||
 |||||
 
 
 
+
+
+Advanced Topics in CFE Module
+Decision Making and Communication (DMAC) Module
+Fellowship Admissions Course (FAC)
 
 
 
