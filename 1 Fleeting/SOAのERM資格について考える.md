@@ -15,8 +15,8 @@ https://store.soa.org/My-Account/My-Transcripts
 | Exams| ASA Required | CERA Required | FSA Required | Already Passed|
 |----|----|----|----|----|
 |VEE|o|o|-|y|
-|Probability (P) Exam|o|||
-|Financial Mathematics (FM) Exam||||
+|Probability (P) Exam|o|||y|
+|Financial Mathematics (FM) Exam||||y|
 |||||
 |||||
 |||||
@@ -27,7 +27,22 @@ https://store.soa.org/My-Account/My-Transcripts
 
 
 
-Pre-Actuarial Foundations Module 
+| Modules| ASA Required | CERA Required | FSA Required | Already Passed|
+|----|----|----|----|----|
+|Pre-Actuarial Foundations Module |o|o|-|y|
+|robability (P) Exam|o|||y|
+|Financial Mathematics (FM) Exam||||y|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+
+
+
 Fundamentals of Actuarial Mathematics (FAM) Exam
 Advanced Long-Term Actuarial Mathematics (ALTAM) Exam (年金) or Advanced Short-Term Actuarial Mathematics (ASTAM) Exam (生保)
 Statistics for Risk Modeling (SRM) Exam
