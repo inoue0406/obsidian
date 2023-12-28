@@ -61,8 +61,8 @@ SRM/FAMの学習をするか。
 ACTEX Study Manual for SOA Exam SRM
 https://www.actexmadriver.com/samples/ACTEX-SRM-ACT-22S-SMP-SAMPLE.pdf
 
-
-
+CoachingActuaries 
+https://www.coachingactuaries.com/srm
 -----
 むしろCASを受けた方がよいのではないか？
 
