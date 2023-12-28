@@ -31,13 +31,13 @@ FSAはCorporate Finance and ERM (CFE) Track
 
 
 
-| Modules/Seminars| ASA Required | CERA Required | FSA Required | Already Passed|
-|----|----|----|----|----|
+| Modules/Seminars| ASA Required | CERA Required | FSA Required | Already Passed|Fee USD|
+|----|----|----|----|----|----|
 |Pre-Actuarial Foundations Module |o|o|-|-|200|
 |Actuarial Science Foundations Module|o|o|-|-|200|
-|Advanced Topics in Predictive Analytics (ATPA) Assessment |o|-|-|-|
-|Fundamentals of Actuarial Practice (FAP) e-Learning Course|o|o|-|-|
-|Associateship Professionalism Course (APC)|o|o|-|-||
+|Advanced Topics in Predictive Analytics (ATPA) Assessment |o|-|-|-||
+|Fundamentals of Actuarial Practice (FAP) e-Learning Course|o|o|-|-|500+1200|
+|Associateship Professionalism Course (APC)|o|o|-|-|625/775|
 |Enterprise Risk Management Module|-|o|o|-|
 |Introduction to CFE Module|-|-|o|-|
 |Advanced Topics in CFE Module|-|-|o|-|
