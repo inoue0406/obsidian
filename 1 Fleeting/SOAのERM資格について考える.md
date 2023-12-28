@@ -25,4 +25,22 @@ https://store.soa.org/My-Account/My-Transcripts
 |||||
 |||||
 
+Probability (P) Exam
+Financial Mathematics (FM) Exam
+Pre-Actuarial Foundations Module 
+Fundamentals of Actuarial Mathematics (FAM) Exam
+Advanced Long-Term Actuarial Mathematics (ALTAM) Exam
+or
+Advanced Short-Term Actuarial Mathematics (ASTAM) Exam
 
+Statistics for Risk Modeling (SRM) Exam
+
+Actuarial Science Foundations Module
+
+Predictive Analytics (PA) Exam
+
+Advanced Topics in Predictive Analytics (ATPA) Assessment 
+
+Fundamentals of Actuarial Practice (FAP) e?Learning Course
+
+Associateship Professionalism Course (APC)
