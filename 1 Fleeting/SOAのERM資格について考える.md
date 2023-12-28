@@ -58,8 +58,10 @@ https://www.soa.org/education/exam-req/exam-day-info/exam-schedules/
 
 SRM/FAMの学習をするか。
 
-ACTEStudy Manual for SOA Exam SRM
+ACTEX Study Manual for SOA Exam SRM
 https://www.actexmadriver.com/samples/ACTEX-SRM-ACT-22S-SMP-SAMPLE.pdf
+
+
 
 -----
 むしろCASを受けた方がよいのではないか？
