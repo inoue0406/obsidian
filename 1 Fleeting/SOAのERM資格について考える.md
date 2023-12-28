@@ -29,11 +29,11 @@ https://store.soa.org/My-Account/My-Transcripts
 
 | Modules| ASA Required | CERA Required | FSA Required | Already Passed|
 |----|----|----|----|----|
-|Pre-Actuarial Foundations Module |o|o|-|y|
-|Actuarial Science Foundations Module|o|||y|
-|Advanced Topics in Predictive Analytics (ATPA) Assessment ||||y|
-|Fundamentals of Actuarial Practice (FAP) e-Learning Course||||
-|Associateship Professionalism Course (APC)||||
+|Pre-Actuarial Foundations Module |o|-|-|-|
+|Actuarial Science Foundations Module|o|-|-|-|
+|Advanced Topics in Predictive Analytics (ATPA) Assessment |o|-|-|
+|Fundamentals of Actuarial Practice (FAP) e-Learning Course|o|-|-|
+|Associateship Professionalism Course (APC)|o|-|-|
 |||||
 |||||
 |||||
