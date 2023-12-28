@@ -50,7 +50,7 @@ ASA Pathwayを見ると、
 - SRM　May 23-29, 2024　September 3-9, 2024
 
 さらにその次はACTUARIAL IIの2試験
-- LTAM　April 16-19, 2024　October 15-18, 2024
+- ALTAM　April 16-19, 2024　October 15-18, 2024
 - PA　April 16-19, 2024　October 15-18, 2024
 
 スケジュールは以下の通り
