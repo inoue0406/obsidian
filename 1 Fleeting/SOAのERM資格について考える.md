@@ -29,7 +29,7 @@ Probability (P) Exam
 Financial Mathematics (FM) Exam
 Pre-Actuarial Foundations Module 
 Fundamentals of Actuarial Mathematics (FAM) Exam
-Advanced Long-Term Actuarial Mathematics (ALTAM) Exam
+Advanced Long-Term Actuarial Mathematics (ALTAM) Exam (年金)
 or
 Advanced Short-Term Actuarial Mathematics (ASTAM) Exam
 
