@@ -44,8 +44,10 @@ FSAはCorporate Finance and ERM (CFE) Track
 |Decision Making and Communication (DMAC) Module|-|-|o|-|
 |Fellowship Admissions Course (FAC)|-|-|o|-|
 
-
 ASA Pathwayを見ると、
+次はACTUARIAL re
+- FAM
+- SRM
 
 ![[Pasted image 20231228184821.png]]
 
