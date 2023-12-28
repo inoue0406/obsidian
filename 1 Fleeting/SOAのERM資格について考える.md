@@ -46,8 +46,8 @@ FSAはCorporate Finance and ERM (CFE) Track
 
 ASA Pathwayを見ると、
 次はACTUARIAL Iの2試験
-- FAM
-- SRM
+- FAM　
+- SRM　May 23-29, 2024　September 3-9, 2024
 
 さらにその次はACTUARIAL IIの2試験
 - LTAM　April 16-19, 2024　October 15-18, 2024
