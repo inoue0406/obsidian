@@ -26,8 +26,8 @@ FSAはCorporate Finance and ERM (CFE) Track
 |Statistics for Risk Modeling (SRM) Exam|o|o|-|-|325|
 |Predictive Analytics (PA) Exam|o|-|-|-|1125|
 |Enterprise Risk Management (ERM) Exam|-|o|o|-|925|
-|Foundations of Corporate Finance and ERM (CFEFD) Exam|-|-|o|-|
-|Strategic Decision Making (CFESDM) Exam|-|-|o|-|
+|Foundations of Corporate Finance and ERM (CFEFD) Exam|-|-|o|-|1225|
+|Strategic Decision Making (CFESDM) Exam|-|-|o|-|1225|
 
 
 
