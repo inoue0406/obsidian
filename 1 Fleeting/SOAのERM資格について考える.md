@@ -31,9 +31,9 @@ https://store.soa.org/My-Account/My-Transcripts
 |----|----|----|----|----|
 |Pre-Actuarial Foundations Module |o|-|-|-|
 |Actuarial Science Foundations Module|o|-|-|-|
-|Advanced Topics in Predictive Analytics (ATPA) Assessment |o|-|-|
-|Fundamentals of Actuarial Practice (FAP) e-Learning Course|o|-|-|
-|Associateship Professionalism Course (APC)|o|-|-|
+|Advanced Topics in Predictive Analytics (ATPA) Assessment |o|-|-|-|
+|Fundamentals of Actuarial Practice (FAP) e-Learning Course|o|-|-|-|
+|Associateship Professionalism Course (APC)|o|-|-|-|
 |||||
 |||||
 |||||
