@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "baa58875eb268c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Fleeting/SOAのERM資格について考える.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,7 +184,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -193,8 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6614feb21a556f19",
+  "active": "baa58875eb268c04",
   "lastOpenFiles": [
+    "2 Literature/Max Weber「職業としての政治」より、国家と暴力の関係.md",
+    "2 Literature/萩原朔太郎：詩の目的について.md",
+    "3 Permanent!/読者が想起するイメージを活用すること（森見登美彦）.md",
     "Pasted image 20231228184821.png",
     "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
     "1 Fleeting/SOAのERM資格について考える.md",
@@ -203,11 +220,9 @@
     "1 Fleeting/物理法則と情報圧縮.md",
     "1 Fleeting/気象学を理解するAIを作ることの意味.md",
     "daily/2023-08-26.md",
-    "3 Permanent!/読者が想起するイメージを活用すること（森見登美彦）.md",
     "3 Permanent!/アクティブな気象観測システムのデータモデル.md",
     "3 Permanent!/Why we use Transformer-based meteorological interpolator.md",
     "3 Permanent!/「研究のしやすさ」を高めることが重要.md",
-    "2 Literature/萩原朔太郎：詩の目的について.md",
     "1 Fleeting/JEPA Architecture.md",
     "2 Literature/Ashish_2017_Attention_is_all_you_need.md",
     "2 Literature/JMA High-resolution Precipitation Nowcast.md",
@@ -216,7 +231,6 @@
     "3 Permanent!/Deep learning and LSTM.md",
     "3 Permanent!/Formalization of Transformer-based meteorological interpolator (GeoTrans).md",
     "3 Permanent!/Sample Permanent Note.md",
-    "2 Literature/Max Weber「職業としての政治」より、国家と暴力の関係.md",
     "1 Fleeting/GeoTrans による汎用性の獲得.md",
     "daily/2023-08-16.md",
     "Zettelkasten Rule.md",
