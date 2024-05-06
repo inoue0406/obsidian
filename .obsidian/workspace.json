@@ -66,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffb7ea7c01f920fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-12-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "857688e770b3d57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-12-17 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
+                "file": "daily/2023-12-17 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
+                "file": "daily/2023-12-17 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Fleeting/Efficient sampling for training rare events in meteorology.md"
+                "file": "daily/2023-12-17 1.md"
               }
             }
           },
@@ -207,8 +231,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baa58875eb268c04",
+  "active": "857688e770b3d57b",
   "lastOpenFiles": [
+    "daily/2023-12-17.md",
+    "daily/2023-12-17 1.md",
     "1 Fleeting/GeoTrans による汎用性の獲得.md",
     "1 Fleeting/JEPA Architecture.md",
     "1 Fleeting/SOAのERM資格について考える.md",
@@ -217,7 +243,6 @@
     "3 Permanent!/読者が想起するイメージを活用すること（森見登美彦）.md",
     "Pasted image 20231228184821.png",
     "1 Fleeting/Efficient sampling for training rare events in meteorology.md",
-    "daily/2023-12-17.md",
     "daily/2023-12-13.md",
     "1 Fleeting/物理法則と情報圧縮.md",
     "1 Fleeting/気象学を理解するAIを作ることの意味.md",
