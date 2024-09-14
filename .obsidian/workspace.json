@@ -100,9 +100,19 @@
                 "currentVersion": "1.5.12"
               }
             }
+          },
+          {
+            "id": "4936154e30982f91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -241,7 +251,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23ab502519164674",
+  "active": "4936154e30982f91",
   "lastOpenFiles": [
     "daily/2023-12-17.md",
     "daily/2023-12-17 1.md",
